@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "朝がまた来る",
+  "base_artist": "DREAMS COME TRUE",
+  "createdAt": "2026-02-28T09:06:21.605668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朝がまた来る",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/01_朝がまた来る_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "朝がまた来る – DOSCO prime Version –",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/02_朝がまた来る_–_DOSCO_prime_Version_–_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "朝がまた来る - album mix",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/03_朝がまた来る_-_album_mix_DREAMS_COME_TRUE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "朝がまた来る - DOSCO prime Version",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/04_朝がまた来る_-_DOSCO_prime_Version_DREAMS_COME_TRUE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "朝がまた来る",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/05_朝がまた来る_Dreams_Come_True.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Asa ga Mata Kuru (朝がまた来る)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/06_Asa_ga_Mata_Kuru_(朝がまた来る)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "朝がまた来る",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/07_朝がまた来る_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝がまた来る",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_朝がまた来る_DREAMS_COME_TRUE.txt"
+    }
+  ]
+}
